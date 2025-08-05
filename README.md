@@ -5,13 +5,13 @@ Get the last day of any month and handles leap years automatically.
 ## Installation
 
 ```sh
-npm install @bredele/monthend
+npm install @bredele/month-end
 ```
 
 ## Usage
 
 ```ts
-import monthend from '@bredele/monthend';
+import monthend from '@bredele/month-end';
 
 // return last day of current month
 monthend();
