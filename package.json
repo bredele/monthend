@@ -1,5 +1,5 @@
 {
-  "name": "monthend",
+  "name": "@bredele/month-end",
   "version": "1.0.0",
   "description": "Get the last day of any month and handles leap years automatically.",
   "main": "./dist/cjs/index.js",
