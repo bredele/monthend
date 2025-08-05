@@ -17,5 +17,10 @@ import monthend from 'monthend';
 monthend();
 
 // return last data of April 2018
-monthend(04, 2018);
+monthend(4, 2018);
 ```
+
+## Notes
+
+This module assumes the input arguments are of the right type (e.g number) and within expected boundaries (for month and year).
+This module does not manage years below 1900 or nearing JavaScript limits.
